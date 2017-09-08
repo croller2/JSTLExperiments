@@ -18,7 +18,7 @@
                 <div class="col-md-12">
                     <h2>Hello Response: </h2>
 
-                    <h2><c:out value = "${greeting}"/></h2>
+                    <h2><c:out value = "${msg}"/></h2>
                 </div>
             </div>
     </body>
